@@ -1,0 +1,30 @@
+[
+    {
+        "task": "andare a fare la spesa",
+        "todo": false
+    },
+    {
+        "task": "chiamare l'avvocato",
+        "todo": true
+    },
+    {
+        "task": "entrare sto trapezio",
+        "todo": false
+    },
+    {
+        "task": "fare la todolist",
+        "todo": true
+    },
+    {
+        "task": "riandare a fare la spesa",
+        "todo": false
+    },
+    {
+        "task": "ancora",
+        "todo": true
+    },
+    {
+        "task": "ed ancora",
+        "todo": false
+    }
+]
