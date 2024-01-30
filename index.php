@@ -20,6 +20,13 @@
                         <li v-for="todo in todoList">{{todo.task}}</li>
                     </ul>
                 </div>
+                <div class="col-12">
+                    <div class="input-group">
+
+                        <input type="text" @keyup.enter="addTask" v-model="item" placeholder="Add Task" class="form-control">
+                        <button @click="addTask" class="btn btn-primary ms-2">ADD</button>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
